@@ -3,5 +3,5 @@
 ## About
 Placeholder Text
 
-## Contributers
+## Contributors
 Placeholder Text
